@@ -1,8 +1,8 @@
  name: Freedom
  version: 0.1.0
  description: A whole new aspect to freedom
- author: DUFC_Liam
- authors: [FoxIshDaBest] 
+ author: IllX
+ authors: [DUFC_Liam] 
  
  main: me.freedom.Freedom
  database: false
