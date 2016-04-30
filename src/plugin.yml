@@ -1,16 +1,16 @@
- name: Freedom
- version: 0.1.0
- description: A whole new aspect to freedom
- author: IllX
- authors: [DUFC_Liam] 
- 
- main: me.freedom.Freedom
- database: false
- depend: []
- 
- commands:
-   BLANK:
-     description: BLANK
-     aliases: []
-     usage: Syntax error! Simply type /&lt;blank&gt; to use this!.
-     
+name: Freedom
+main: me.adapt.freedom.core.Freedom
+version: 1.3
+author: [Adaptified]
+description: The newest Freedom plugin by adaptified
+softdepend: [Aero, CoreProtect]
+commands:
+    rollback:
+        description: Roll a player back
+        usage: /<command> <player> 
+        aliases: [rb]
+    rollbackundo:
+        description: Roll a player back
+        usage: /<command> <player> 
+        aliases: [rbu]    
+    
