@@ -1,8 +1,8 @@
 name: Freedom
-main: me.adapt.freedom.core.Freedom
-version: 1.3
-author: [Adaptified]
-description: The newest Freedom plugin by adaptified
+main: me.liamplugins.core.Feedom
+version: 1.0
+author: [DUFC_Liam]
+description: The newest Freedom plugin by DUFC_Liam
 softdepend: [Aero, CoreProtect]
 commands:
     rollback:
