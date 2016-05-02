@@ -2,6 +2,7 @@ name: Freedom
 main: me.liamplugins.core.Feedom
 version: 1.0
 author: [DUFC_Liam]
+authors: [FoxIshDaBest]
 description: The newest Freedom plugin by DUFC_Liam
 softdepend: [Aero, CoreProtect]
 commands:
